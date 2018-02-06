@@ -5,4 +5,4 @@ RUN cd ~ && \
     python get-pip.py
 
 
-RUN pip install spade
+RUN pip install spade opencv-python
